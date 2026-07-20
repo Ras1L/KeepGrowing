@@ -1,5 +1,8 @@
 /.vscode
 
-/build
+/build-debug
+/build-release
 /conan-io
 /doc
+
+.clangd
